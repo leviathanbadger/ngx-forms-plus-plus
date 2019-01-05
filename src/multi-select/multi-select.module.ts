@@ -12,6 +12,5 @@ import { FormsModule } from '@angular/forms';
     imports: [CommonModule, FormsModule],
     exports: [MultiSelectComponent]
 })
-export class MultiSelectModule
-{
+export class MultiSelectModule {
 }
